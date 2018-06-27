@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_admin/a_admin.iml" filepath="$PROJECT_DIR$/a_admin/a_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a_common/a_common.iml" filepath="$PROJECT_DIR$/a_common/a_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revert_token.iml" filepath="$PROJECT_DIR$/revert_token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
